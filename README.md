@@ -89,7 +89,7 @@ Vishakhapatnam  Andhra Pradesh  A          M        1
 
 ```
 
-In the above example, The number of **unique** male people who were vaccinated with Vaccine **B** is 2. 
+In the above example, The number of **unique** male people who were from Sonipat, Haryana vaccinated with Vaccine **B** is 2. 
 
 ## How will your code be tested?
 The code will be tested against test cases.
